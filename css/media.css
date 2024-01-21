@@ -1,0 +1,486 @@
+@media only screen and (min-width: 1800px) {
+    header .form {
+        margin-right: -14px;
+    }
+}
+@media only screen and (max-width: 1900px) {
+   .wrap .peoples .people1,
+   .peoples .people4{
+        display:none!important;
+    }
+    .wrap .peoples .people2{
+        margin-left:464px;
+    }
+      
+    .wrap .optionBroker h2{
+               margin-top: 76px;
+       }
+     .wrap .peoples {
+        display:none;
+    }
+}
+@media only screen and (max-width: 1800px){
+.wrap footer div{
+       margin-left: 15px;
+       margin-right: 15px; 
+}
+}
+@media only screen and (max-width: 1700px) {
+    .wrap .arrow {
+        background-image: url('../images/arrow1700.png')!important;
+    }
+}
+@media only screen and (max-width: 1500px){
+  .wrap .arrow {
+        background-image: url('../images/arrowMed.png')!important;
+    }
+   
+    .wrap{
+        height: auto!important;
+    }
+   .wrap .HowItWworks .pipleRight{
+        right: -523px;
+    }
+}/*1500px*/
+
+@media only screen and (max-width: 1320px){
+   .wrap .HowItWworks .pipleLeft{
+        display: none;
+    }
+    .wrap .HowItWworks .colorText{
+        margin-left: 120px;
+            width: 334px;
+            
+    }
+    .wrap .HowItWworks{
+            background-position: -227px 0px;
+    }
+    .wrap .HowItWworks .ct p:nth-child(2){
+            margin-bottom: 7px;
+    }
+    .wrap .HowItWworks .ct p:nth-child(3){
+            font-size: 14px;
+                line-height: 17px;
+    }
+    .wrap .HowItWworks .ct{
+        padding-top: 13px;
+        padding-right: 7px;
+    }
+    .wrap h1{
+        font-size: 47px;
+    }
+    .wrap h1:hover{
+        font-size: 47px;
+    }
+    .wrap header .form{
+        float: none;
+    width: 370px;
+    margin: 0 auto;
+    }
+    .wrap header{
+        padding-bottom: 49px;
+    }
+
+   .wrap .HowItWworks h3 {
+    padding-left: 0;
+    text-align: center;
+}
+    .wrap .step h2{
+        font-size: 43px;
+    }
+}/*1320px*/
+
+@media only screen and (max-width: 1199px){
+    .wrap footer{
+            padding-bottom: 18px;
+            background-repeat:repeat;
+    }
+    .wrap .blockForm .form h4{
+        font-size:38px;
+    }
+     .wrap .arrow {
+        background-image: url('../images/arrow1024.png')!important;
+        
+        height:269px!important;
+        bottom:0;
+    }
+
+    .wrap .colorBlock1,
+    .wrap .colorBlock2,
+    .wrap .colorBlock3,
+    .wrap .colorBlock4{
+        left: -347px;
+        width: 228px;
+        font-size: 16px;
+        padding-left: 5px;
+    padding-right: 5px;
+    }
+    .wrap .colorBlock1,
+    .wrap .colorBlock4{
+        left:-300px!important;
+    }
+
+    .wrap .colorBlock5,
+    .wrap .colorBlock6,
+    .wrap .colorBlock7{
+        left: 356px;
+        width: 228px;
+        font-size: 16px;
+        padding-left: 5px;
+    padding-right: 5px;
+    }
+    .wrap .colorBlock5{
+        padding-top: 8px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    
+    .wrap .HowItWworks .colorText {
+    margin-left: 82px;
+    width: 215px;
+}
+.wrap .HowItWworks .colorText1 {
+    background-color: #38648a;
+    height: 133px;
+}
+.wrap .HowItWworks .color{
+            width: 81px;
+    left: -83px;
+}
+.wrap .HowItWworks .ct p:nth-child(2) {
+    color: #fff;
+    font-size: 15px;
+    }
+    .wrap .HowItWworks .ct p:nth-child(3) {
+    font-size: 11px;
+    }
+    .wrap .HowItWworks .pipleRight{
+        display: none;
+    }
+    .wrap .HowItWworks .pipleLeft {
+    display: block;
+    left: 329px;
+}
+.wrap h1 {
+    font-size: 35px;
+}
+.wrap h1:hover {
+    font-size: 35px;
+}
+.wrap header{
+        padding-bottom: 92px;
+            background-size: cover;
+}
+.wrap header .formBlock {
+    margin-top: 53px;
+}
+.wrap .step h2 {
+    font-size: 32px;
+}
+.wrap .blockForm .form{
+    width: 674px;
+    padding-right: 30px;
+}
+.wrap .blockForm input[type="text"], .blockForm select{
+    width: 300px;
+}
+.wrap .blockForm .form .phone {
+    width: 256px;
+}
+.wrap .blockForm .form .code {
+    width: 44px;
+}
+.wrap .blockForm .form select{
+     width: 300px;
+}
+.wrap .blockForm{
+        padding-top: 65px;
+    padding-bottom: 100px;
+}
+.wrap .step{
+        padding-top: 1px;
+    padding-bottom: 16px;
+}
+.wrap .pyment h2{
+        margin-top: 54px;
+}
+.wrap .pyment{
+    padding-bottom: 63px;
+}
+}/*1200px*/
+
+@media only screen and (max-width: 950px){
+   .wrap .subCurveLeft,
+   .wrap .subCurve,
+   .our_line1,
+   .our_line2,
+   .our_line3,
+   .icon{
+        display:none;
+    }
+    .wrap .ourAdvantagesContent .our_risk_free {
+        background-image: url('../images/our_risk-freeMin.png')!important;
+        width:238px!important;
+        height:263px!important;
+    }
+}/*992px*/
+
+
+@media only screen and (max-width: 800px){
+     /*form Bot*/
+    .wrap .blockForm .form h4 {
+    font-size: 19px!important;
+    margin-top: 20px!important;
+    margin-bottom: 20px!important;
+}
+    .wrap .blockForm .form .subCheckbox{
+margin-left: 0px!important;
+    margin-right: 10px!important;
+        margin-bottom: 20px;
+    }
+    .wrap .blockForm .form{
+        padding-left: 25px;
+            width: 300px!important;
+            height: 433px;
+            max-height: 400px;
+    }
+    .wrap .blockForm .form input,
+     .wrap .blockForm .form select{
+         width: 248px;
+         height: 35px;
+         padding-top: 0px;
+    }
+    .blockForm select option{
+        color: #000;
+    }
+    .wrap .blockForm .form .code {
+    width: 47px!important;
+    
+}
+    .wrap .blockForm .form .phone {
+    width: 201px!important;
+   
+}
+    .wrap .blockForm .form input[type="submit"]{
+            height: 46px;
+    font-size: 20px;
+    padding: 0;
+    text-align: center;
+    }
+    .wrap .colorBlock1,
+     .wrap .colorBlock2,
+     .wrap .colorBlock3,
+     .wrap .colorBlock4{
+            left: -246px!important;
+    }
+    .wrap .colorBlock5, .wrap .colorBlock6, .wrap .colorBlock7{
+        left: 256px;
+    }
+    .wrap .arrow {
+        display:none;
+    }.wrap .optionBroker{
+             padding-top: 0px;
+               height: 359px;
+                   padding-bottom: 0;
+     }
+     .wrap .optionBroker h2 {
+    margin-top: 47px;
+}
+     .wrap .ourAdvantages{
+             height: 648px;
+     }
+     .wrap .blockForm .form h4 {
+    font-size: 38px;
+}
+}/*768px*/
+
+@media only screen and (max-width: 415px){
+    .wrap .pyment h2 {
+    margin-top: 32px;
+}
+    .wrap .pyment {
+    padding-bottom: 39px;
+}
+    /*form Top*/
+    .wrap header .form .subCheckbox{
+            margin-left: 25px;
+    margin-right: 14px;
+    }
+    .wrap header .form{
+        width: 300px;
+            height: 433px;
+    }
+    .wrap header .form input,
+     .wrap header .form select{
+         width: 248px;
+         height: 35px;
+        padding-top: 0px;
+    }
+    .wrap header .form .code {
+    width: 47px;
+    border-right: 0;
+}
+    .wrap header .form .phone {
+    width: 201px;
+}
+
+    .wrap header .form input[type="submit"]{
+            height: 46px;
+    font-size: 20px;
+    padding: 0;
+    text-align: center;
+    border-radius:0;
+    }
+    /*end form top*/
+    
+    /*end form Bot*/
+    .wrap header .videoBlock p{
+            font-size: 25px;
+    margin-left: 10px;
+    }
+    .wrap h1 {
+    font-size: 27px;
+    margin-top: 35px;
+    margin-bottom: 14px;
+    line-height: 52px;
+}
+    .wrap header img{
+        width:50%;
+    }
+    .ourAdvantages .ourAdvantagesContent .our_risk_free{
+        display:none;
+        
+    }
+    .wrap .colorBlock1,
+     .wrap .colorBlock2,
+     .wrap .colorBlock3,
+     .wrap .colorBlock4,
+     .wrap .colorBlock5,
+     .wrap .colorBlock6,
+     .wrap .colorBlock7{
+        position:initial;
+        width:348px;
+        font-size:15px!important;
+            height: 60px;
+    margin-bottom: 10px;
+    padding-top: 19px;
+    line-height: 20px;
+    }
+    .wrap .ourAdvantages .ourAdvantagesContent{
+        width:360px;
+    }
+    .wrap .ourAdvantages h2{
+        font-size:42px;
+            margin-top: 44px;
+            margin-bottom: 20px;
+    }
+    .pyment .pyments img{
+        width:10%;
+    }
+    .wrap .optionBroker{
+        height: 254px;
+    }
+    .wrap .optionBroker .optionBrokerContent h2{
+            font-size: 22px!important;
+    }
+    .wrap .optionBroker .optionBrokerContent p{
+            font-size: 19px!important;
+    }
+    .wrap .optionBroker .optionBrokerContent p span{
+            font-size: 20px!important;
+    }
+    .wrap .blockForm .form {
+        width: 370px;
+    }
+
+}/*415px*/
+
+@media only screen and (max-width: 376px) {
+    .wrap .pyment {
+    padding-bottom: 35px;
+}
+    .wrap .pyment h2 {
+    margin-top: 23px;
+        font-size: 26px;
+}
+    .wrap .ourAdvantages h2 {
+    font-size: 36px;
+    margin-top: 23px;
+    margin-bottom: 20px;
+}
+    .wrap .colorBlock1, .wrap .colorBlock2, .wrap .colorBlock3, .wrap .colorBlock4, .wrap .colorBlock5, .wrap .colorBlock6, .wrap .colorBlock7{
+            width: 326px;
+    font-size: 14px!important;
+    }
+    .wrap .ourAdvantages .ourAdvantagesContent {
+    width: 326px;
+}
+    .wrap .ourAdvantages {
+    height: auto;
+    padding-bottom: 19px;
+}
+    .wrap footer div p{
+        font-size:13px;
+        line-height: 19px;
+    }
+    .wrap .optionBroker .optionBrokerContent h2 {
+            font-size: 21px!important;
+    margin-top: 21px;
+    margin-bottom: 11px;
+}
+    .wrap .optionBroker {
+    height: 207px;
+}
+    .wrap .optionBroker .optionBrokerContent {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+    .wrap .blockForm{
+            background-position: -415px;
+    }
+}
+@media only screen and (max-width: 321px) {
+    .wrap .optionBroker .optionBrokerContent p span {
+    font-size: 18px!important;
+}
+    .wrap .optionBroker {
+    height: 220px;
+}
+    .wrap .optionBroker .optionBrokerContent p {
+    font-size: 18px!important;
+}
+    .wrap .optionBroker h2{
+        line-height: 35px;
+    }
+    .wrap h1 {
+        line-height: 41px;
+        margin-top: 23px;
+        font-size: 27px;
+    }
+    .wrap header{
+        padding-top: 44px;
+    }
+    .wrap .ourAdvantages h2 {
+    font-size: 32px;
+}
+        .wrap .colorBlock1,
+     .wrap .colorBlock2,
+     .wrap .colorBlock3,
+     .wrap .colorBlock4,
+     .wrap .colorBlock5,
+     .wrap .colorBlock6,
+     .wrap .colorBlock7{
+    width: 290px;
+    font-size: 14px!important;
+    padding: 10px;
+    }
+    .wrap .colorBlock3,
+     .wrap .colorBlock4,
+     .wrap .colorBlock5{
+        padding-top:19px!important;
+    }
+    .wrap .ourAdvantages .ourAdvantagesContent{
+        width:290px;
+    }
+
+}
